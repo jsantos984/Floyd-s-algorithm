@@ -2,7 +2,9 @@
 
 ## Floyd´s project Overview
 
-The goal of this project is to implement the Floyd´s algorithm, using Python. Floyd´s algorithm is used to search the shortest way between  all nodes in a graph
+The goal of this project is to implement the Floyd´s algorithm, using Python. Floyd´s algorithm is used to search the shortest way between  all nodes in a graph. Use cases:
+- Transportation networks – find the fastest route between all pairs of cities or stations.
+- Social networks – determine degrees of separation between all users in the network.
 
 ## Setup Instructions for Floyd´s Algorithm
 
